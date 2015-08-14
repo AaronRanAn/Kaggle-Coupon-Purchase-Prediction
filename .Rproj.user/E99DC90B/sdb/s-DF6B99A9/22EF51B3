@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1439589839236.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "22EF51B3",
+    "lastKnownWriteTime" : 2,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4z98nsezls",
+        "caption" : "coupon_detail_train",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=coupon_detail_train&cache_key=4z98nsezls",
+        "displayedObservations" : 168996,
+        "environment" : "",
+        "object" : "coupon_detail_train",
+        "totalObservations" : 168996,
+        "variables" : 6
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

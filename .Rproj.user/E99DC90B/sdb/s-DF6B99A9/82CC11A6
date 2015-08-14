@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1439589842802.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "82CC11A6",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2kocyu1ayb",
+        "caption" : "coupon_list_train",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=coupon_list_train&cache_key=2kocyu1ayb",
+        "displayedObservations" : 19413,
+        "environment" : "",
+        "object" : "coupon_list_train",
+        "totalObservations" : 19413,
+        "variables" : 24
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

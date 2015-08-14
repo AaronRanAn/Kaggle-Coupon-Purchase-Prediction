@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1439589836038.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6CC2A02C",
+    "lastKnownWriteTime" : 4319232512,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "e67it39a7t",
+        "caption" : "coupon_area_train",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=coupon_area_train&cache_key=e67it39a7t",
+        "displayedObservations" : 138185,
+        "environment" : "",
+        "object" : "coupon_area_train",
+        "totalObservations" : 138185,
+        "variables" : 3
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

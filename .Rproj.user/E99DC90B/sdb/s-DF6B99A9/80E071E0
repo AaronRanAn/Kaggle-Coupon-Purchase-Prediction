@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1439589882819.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "80E071E0",
+    "lastKnownWriteTime" : 28552639593539683,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "vifbsvqz9c",
+        "caption" : "user_list",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=user_list&cache_key=vifbsvqz9c",
+        "displayedObservations" : 22873,
+        "environment" : "",
+        "object" : "user_list",
+        "totalObservations" : 22873,
+        "variables" : 6
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1439589855576.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3307A50C",
+    "lastKnownWriteTime" : 4825976832,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "gh1vwenoc1",
+        "caption" : "coupon_visit_train",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=coupon_visit_train&cache_key=gh1vwenoc1",
+        "displayedObservations" : 2833180,
+        "environment" : "",
+        "object" : "coupon_visit_train",
+        "totalObservations" : 2833180,
+        "variables" : 8
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
